@@ -1,0 +1,8 @@
+C:\src\me\CwkSocial\obj\Debug\net8.0\CwkSocial.csproj.AssemblyReference.cache
+C:\src\me\CwkSocial\obj\Debug\net8.0\CwkSocial.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\me\CwkSocial\obj\Debug\net8.0\CwkSocial.AssemblyInfoInputs.cache
+C:\src\me\CwkSocial\obj\Debug\net8.0\CwkSocial.AssemblyInfo.cs
+C:\src\me\CwkSocial\obj\Debug\net8.0\CwkSocial.csproj.CoreCompileInputs.cache
+C:\src\me\CwkSocial\obj\Debug\net8.0\CwkSocial.MvcApplicationPartsAssemblyInfo.cs
+C:\src\me\CwkSocial\obj\Debug\net8.0\CwkSocial.MvcApplicationPartsAssemblyInfo.cache
+C:\src\me\CwkSocial\obj\Debug\net8.0\CwkSocial.sourcelink.json
