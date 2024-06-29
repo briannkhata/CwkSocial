@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CwkSocial")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+83f606da2d5fcd0fe9bac4d94c4db7b6db8922a6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a8713d3ac5dc8f32156cfaefbed71971f5ec8512")]
 [assembly: System.Reflection.AssemblyProductAttribute("CwkSocial")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CwkSocial")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

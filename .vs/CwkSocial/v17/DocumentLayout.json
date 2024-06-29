@@ -3,22 +3,7 @@
   "WorkspaceRootPath": "C:\\src\\me\\CwkSocial\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6230EB79-0529-44CC-BFDC-8B8A4BFE005D}|..\\CwkSocial.Api\\CwkSocial.Api.csproj|c:\\src\\me\\cwksocial.api\\controllers\\extensions\\registrarextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6230EB79-0529-44CC-BFDC-8B8A4BFE005D}|..\\CwkSocial.Api\\CwkSocial.Api.csproj|c:\\src\\me\\cwksocial.api\\controllers\\registrars\\iregistrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6230EB79-0529-44CC-BFDC-8B8A4BFE005D}|..\\CwkSocial.Api\\CwkSocial.Api.csproj|c:\\src\\me\\cwksocial.api\\controllers\\extensions\\httpcontextextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6230EB79-0529-44CC-BFDC-8B8A4BFE005D}|..\\CwkSocial.Api\\CwkSocial.Api.csproj|c:\\src\\me\\cwksocial.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6230EB79-0529-44CC-BFDC-8B8A4BFE005D}|..\\CwkSocial.Api\\CwkSocial.Api.csproj|c:\\src\\me\\cwksocial.api\\controllers\\v2\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6230EB79-0529-44CC-BFDC-8B8A4BFE005D}|..\\CwkSocial.Api\\CwkSocial.Api.csproj|c:\\src\\me\\cwksocial.api\\controllers\\v1\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9168C092-C31C-4FA6-9753-7EF2183619C9}|..\\Cwk.Domain\\Cwk.Domain.csproj|c:\\src\\me\\cwk.domain\\aggregates\\post\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,89 +13,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IRegistrar.cs",
-              "DocumentMoniker": "C:\\src\\me\\CwkSocial.Api\\Controllers\\Registrars\\IRegistrar.cs",
-              "RelativeDocumentMoniker": "..\\CwkSocial.Api\\Controllers\\Registrars\\IRegistrar.cs",
-              "ToolTip": "C:\\src\\me\\CwkSocial.Api\\Controllers\\Registrars\\IRegistrar.cs",
-              "RelativeToolTip": "..\\CwkSocial.Api\\Controllers\\Registrars\\IRegistrar.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T20:53:32.856Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HttpContextExtensions.cs",
-              "DocumentMoniker": "C:\\src\\me\\CwkSocial.Api\\Controllers\\Extensions\\HttpContextExtensions.cs",
-              "RelativeDocumentMoniker": "..\\CwkSocial.Api\\Controllers\\Extensions\\HttpContextExtensions.cs",
-              "ToolTip": "C:\\src\\me\\CwkSocial.Api\\Controllers\\Extensions\\HttpContextExtensions.cs",
-              "RelativeToolTip": "..\\CwkSocial.Api\\Controllers\\Extensions\\HttpContextExtensions.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T20:49:49.533Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "RegistrarExtensions.cs",
-              "DocumentMoniker": "C:\\src\\me\\CwkSocial.Api\\Controllers\\Extensions\\RegistrarExtensions.cs",
-              "RelativeDocumentMoniker": "..\\CwkSocial.Api\\Controllers\\Extensions\\RegistrarExtensions.cs",
-              "ToolTip": "C:\\src\\me\\CwkSocial.Api\\Controllers\\Extensions\\RegistrarExtensions.cs",
-              "RelativeToolTip": "..\\CwkSocial.Api\\Controllers\\Extensions\\RegistrarExtensions.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAkAAAAqAAAA",
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\src\\me\\Cwk.Domain\\Aggregates\\Post\\Post.cs",
+              "RelativeDocumentMoniker": "..\\Cwk.Domain\\Aggregates\\Post\\Post.cs",
+              "ToolTip": "C:\\src\\me\\Cwk.Domain\\Aggregates\\Post\\Post.cs",
+              "RelativeToolTip": "..\\Cwk.Domain\\Aggregates\\Post\\Post.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T20:33:05.226Z",
+              "WhenOpened": "2024-06-29T13:21:41.445Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\src\\me\\CwkSocial.Api\\Program.cs",
-              "RelativeDocumentMoniker": "..\\CwkSocial.Api\\Program.cs",
-              "ToolTip": "C:\\src\\me\\CwkSocial.Api\\Program.cs",
-              "RelativeToolTip": "..\\CwkSocial.Api\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T18:26:05.781Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PostsController.cs",
-              "DocumentMoniker": "C:\\src\\me\\CwkSocial.Api\\Controllers\\V2\\PostsController.cs",
-              "RelativeDocumentMoniker": "..\\CwkSocial.Api\\Controllers\\V2\\PostsController.cs",
-              "ToolTip": "C:\\src\\me\\CwkSocial.Api\\Controllers\\V2\\PostsController.cs",
-              "RelativeToolTip": "..\\CwkSocial.Api\\Controllers\\V2\\PostsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T18:09:34.795Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PostsController.cs",
-              "DocumentMoniker": "C:\\src\\me\\CwkSocial.Api\\Controllers\\V1\\PostsController.cs",
-              "RelativeDocumentMoniker": "..\\CwkSocial.Api\\Controllers\\V1\\PostsController.cs",
-              "ToolTip": "C:\\src\\me\\CwkSocial.Api\\Controllers\\V1\\PostsController.cs",
-              "RelativeToolTip": "..\\CwkSocial.Api\\Controllers\\V1\\PostsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T18:08:23.605Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             }
           ]
         }
